@@ -1,6 +1,6 @@
 # Distributed Energy Usage Forecasting
-Author: [Chris Dong](https://github.com/dongchris), [Lingzhi Du](https://github.com/LenzDu), [Kyna Ji](https://github.com/feiran-kyna-ji), [Amber Song](https://github.com/ambersongzz), [Vanessa Zheng](https://github.com/VZ0624)
-  
+Co-First Author: [Chris Dong](https://github.com/dongchris), [Lingzhi Du](https://github.com/LenzDu), [Kyna Ji](https://github.com/feiran-kyna-ji), [Amber Song](https://github.com/ambersongzz), [Vanessa Zheng](https://github.com/VZ0624)
+
 "Forecasting Smart Meter Energy Usage using Distributed Systems and Machine Learning". *Under Review*, ***The 16th IEEE International Conference on Smart City***
 
 ## Goal
